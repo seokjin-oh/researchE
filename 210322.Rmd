@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+file life cycle
+Tracked (A모양) -- Modified / Unmodified
+Untracked (?모양)
+
+### Tools > Version control > Project setup > git 설정
